@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview of the analysis:
-Using Neural Networks, the goal of this project is to analyse a dataset comprised of chariy data. We use a Neural Network to create a binary classifier that is capable of predicting whther applicants will be successful if funded by Alphabet Soup. The data comes in the form of a csv that is comprised of 34,000 organizations that have received funding from Alphabet Soup in the past. 
+Using Neural Networks, the goal of this project is to analyze a dataset comprised of chariy data. We use a Neural Network to create a binary classifier that is capable of predicting whther applicants will be successful if funded by Alphabet Soup. The data comes in the form of a csv that is comprised of 34,000 organizations that have received funding from Alphabet Soup in the past. 
 
 The dataset columns are as follows:
 - EIN and NAME—Identification columns
